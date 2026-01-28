@@ -1,9 +1,5 @@
-# Python virtual environment
 .venv/
-
-# Python cache files
-__pycache__/
-*.pyc
-
-# VS Code workspace settings
-.vscode/
+env.py
+__pycache__
+*.py[cod]
+db.sqlite3
